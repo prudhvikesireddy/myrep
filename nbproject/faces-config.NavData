@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene Scope="Project" version="2">
+    <Scope Scope="Faces Configuration Only"/>
+    <Scope Scope="Project">
+        <Node id="smssend.jsp" x="150" y="450" zoom="true"/>
+        <Node id="Page3.jsp" x="900" y="150" zoom="true"/>
+        <Node id="one.jsp" x="400" y="150" zoom="true"/>
+        <Node id="adminpage.jsp" x="150" y="300" zoom="false"/>
+        <Node id="emailsend.jsp" x="650" y="150" zoom="true"/>
+        <Node id="smsm.jsp" x="400" y="300" zoom="true"/>
+        <Node id="Page1.jsp" x="150" y="150" zoom="false"/>
+        <Node id="Page2.jsp" x="392" y="318" zoom="true"/>
+        <Node id="Page4.jsp" x="650" y="300" zoom="true"/>
+    </Scope>
+    <Scope Scope="All Faces Configurations"/>
+</Scene>
